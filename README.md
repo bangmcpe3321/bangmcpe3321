@@ -11,7 +11,7 @@
 
 <p align="center"> <img src="https://skillicons.dev/icons?i=java,python,cpp,cs,unity,html,css,js,mysql,linux,git" /> </p>
 
-<p align="center"> <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bangmcpe3321&show_icons=true&theme=tokyonight" />
+<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bangmcpe3321&theme=tokyonight" />
  </p>
 
 <p align="center"> <img src="https://github.com/bangmcpe3321/bangmcpe3321/blob/output/github-contribution-grid-snake.svg" /> </p>
