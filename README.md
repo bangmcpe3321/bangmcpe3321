@@ -9,7 +9,7 @@
   <img src="https://media.giphy.com/media/9iUsnxKpefVg5477R4/giphy.gif" width="600"/>
 </p>
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=java,python,cpp,cs,unity,html,css,js,mysql,linux,git" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=java,python,cpp,cs,html,css,js,mysql,linux,git" /> </p>
 
 <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bangmcpe3321&theme=tokyonight" />
  </p>
