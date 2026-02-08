@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHpsaDh0ZGl6dzF2dWhqaG5naHR3MGk1Z29pcnFsZGVqZ2w3amw4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9iUsnxKpefVg5477R4/giphy.gif" width="600"/>
+  <img src="https://media.giphy.com/media/9iUsnxKpefVg5477R4/giphy.gif" width="600"/>
 </p>
 
 <p align="center"> <img src="https://skillicons.dev/icons?i=java,python,cpp,cs,unity,html,css,js,mysql,linux,git" /> </p>
