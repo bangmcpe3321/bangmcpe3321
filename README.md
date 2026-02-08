@@ -22,7 +22,7 @@
 ## 🌌 About Me
 
 ```yaml
-Name: Bang
+Name: James Lockwood
 Role: IT Student & Vibe Coder
 Focus: Cybersecurity • Vibe Coder
 Mindset: Learn fast. Build real things. Stay dangerous.
