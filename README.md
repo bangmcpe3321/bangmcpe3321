@@ -2,11 +2,11 @@
 <h3 align="center">✨ Vibe Coder | IT Student | Future Security Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=I+build+cool+things+with+code;Cybersecurity+Learner;Unity+Game+Developer;Always+leveling+up" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=I+build+cool+things+with+code;Cybersecurity+Learner;Always+leveling+up" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHpsaDh0ZGl6dzF2dWhqaG5naHR3MGk1Z29pcnFsZGVqZ2w3amw4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9iUsnxKpefVg5477R4/giphy.gif" width="600"/>
 </p>
 
 <p align="center"> <img src="https://skillicons.dev/icons?i=java,python,cpp,cs,unity,html,css,js,mysql,linux,git" /> </p>
