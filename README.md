@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/9iUsnxKpefVg5477R4/giphy.gif" width="600"/>
+  <img src="https://github.com/bangmcpe3321/bangmcpe3321/blob/main/assets/Umamusume%20Uma%20GIF.gif" width="600"/>
 </p>
 
 <p align="center"> <img src="https://skillicons.dev/icons?i=java,python,cpp,cs,html,css,js,mysql,linux,git" /> </p>
